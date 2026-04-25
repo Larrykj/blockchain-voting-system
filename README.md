@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## ABOUT
 A blockchain-based voting system that preserves voter privacy and increases accessibility, while keeping the voting system transparent, secure, and cost-effective. The system implements a voting framework that utilizes ethereum’s blockchain and smart contracts to achieve voter administration and auditable voting records. The implementation was deployed on ethereum’s test network to demonstrate usability, scalability, and efficiency.
 
@@ -45,4 +45,4 @@ Open your browser and configure metamask. Create a wallet and store your```Secre
 The project will open in the browser and metamask will ask you to select an account. Select the account we had imported earlier.
 =======
 # blockchain-voting-system
->>>>>>> 2ea394698c8f2b8caf7d844d2292a5b6b375e01f
+
